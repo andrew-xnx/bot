@@ -1,1 +1,1 @@
-# bot
+@xanaxbbot
